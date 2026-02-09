@@ -92,10 +92,23 @@ I don’t just make things work — I design systems that **scale, perform, and 
 **Highlights**
 - 2D game completed in just 5 days
 - No direct UI or GameManager dependency
-- Provide best results in short time
+- Provided best results in short time
 
 🎥 **Gameplay Video**  
-👉 https://youtu.be/VIDEO_LINK_HERE
+👉 https://youtu.be/xR4zV7h6mx8
+
+---
+### 🧩 Project 4 — *Swan Under Water*  
+📌 **Role:** Unity Developer  
+📌 **Focus:** Mini Project with high quality
+
+**Highlights**
+- 3D game completed in just 5 days
+- Added a shop system for infinite shoping object
+- Provided best results in short time
+
+🎥 **Gameplay Video**  
+👉 https://youtu.be/96lTfZWz2K4
 
 ---
 
