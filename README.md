@@ -11,11 +11,11 @@ I don’t just make things work — I design systems that **scale, perform, and 
 ## 🧠 Core Skills
 
 **Unity Engine**
-- Unity (URP)
-- C#
+- AR/VR
 - Unity 3D
 - Unity 2D
 - Photon, Scoket.io, Net-Code
+- OpenCV (Object Detection)
 
 **Gameplay & Architecture**
 - Event-driven architecture (Actions / Delegates / C# events)
@@ -59,16 +59,16 @@ I don’t just make things work — I design systems that **scale, perform, and 
 
 ## 🕹️ Featured Projects
 
-### 🚀 Project 1 — *Make Your Garden*  
+### 🔥 Project 1 — *Tangram Shape Detection with OpenCV*  
 📌 **Role:** Unity Developer  
-📌 **Type:** 3D / Mobile
 
 **Highlights**
-- Improved frame stability by removing per-frame polling
-- Optimized runtime using object pooling
+- Detect real-time tangram shapes in mobile
+- Provide image processesing for accurate results
+- Perform calculations to detect shapes with diffirent angles
 
-🎥 **Gameplay Video**  
-👉 https://youtu.be/_YOWpmFM_qc
+🎥 **Refrence Video (my work isn't public yet)**  
+👉https://youtu.be/88NIZXw9OSc?si=_YSdNZ1hPoQMvzRJ
 
 ---
 
@@ -85,7 +85,20 @@ I don’t just make things work — I design systems that **scale, perform, and 
 
 ---
 
-### 🧩 Project 3 — *Hydralic Press*  
+### 🚀 Project 3 — *Make Your Garden*  
+📌 **Role:** Unity Developer  
+📌 **Type:** 3D / Mobile
+
+**Highlights**
+- Improved frame stability by removing per-frame polling
+- Optimized runtime using object pooling
+
+🎥 **Gameplay Video**  
+👉 https://youtu.be/_YOWpmFM_qc
+
+---
+
+### 🧩 Project 4 — *Hydralic Press*  
 📌 **Role:** Unity Developer  
 📌 **Focus:** Make Complete game in 5 days
 
@@ -98,7 +111,7 @@ I don’t just make things work — I design systems that **scale, perform, and 
 👉 https://youtu.be/xR4zV7h6mx8
 
 ---
-### 🧩 Project 4 — *Swan Under Water*  
+### 🧩 Project 5 — *Swan Under Water*  
 📌 **Role:** Unity Developer  
 📌 **Focus:** Mini Project with high quality
 
@@ -109,6 +122,10 @@ I don’t just make things work — I design systems that **scale, perform, and 
 
 🎥 **Gameplay Video**  
 👉 https://youtu.be/96lTfZWz2K4
+
+---
+
+**I have also worked on other multiple AR/VR, multiplayer, 3D, and 2D projects, including both mini-projects and contributions to larger projects.** 
 
 ---
 
